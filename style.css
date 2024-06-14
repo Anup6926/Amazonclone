@@ -393,3 +393,124 @@ ul a {
   color: white;
   font-size: 10px;
 }
+@media (min-width:600px) {
+  .intro{
+    height: 650px;
+  }
+  .intro div{
+    height: 390px;
+    width: 260px;
+    margin-top: 250px;
+  }
+  .gadgets div{
+    height: 450px;
+  }
+  .gadgets1 div{
+    height: 450px;
+  }
+  h4{
+    font-size: 40px;
+    margin-left: 30px;
+  }
+  .name{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 30px;
+  }
+  .more{
+    font-size: 25px;
+    margin-left: 50px;
+  }
+  .footer-final{
+    height: 250px;
+  }
+  .footer-final div{
+    font-size: 20px;
+  }
+  .notice{
+    font-size: 12px;
+  }
+  .footer-bottom ul a{
+    font-size: 25px;
+  }
+  .footer-bottom{
+    height: 300px;
+  }
+  .footer-top p{
+    font-size: 25px;
+    margin-top: 10px;
+  }
+  .footer-top{
+    height: 70px;
+  }
+  .bar a{
+    font-size: 30px;
+  }
+  .bar{
+    margin-top: 30px;
+  }
+.main-bar{
+    height: 260px;
+  }
+  .more{
+  font-size: 45px;
+  color: white;
+}
+.user{
+  font-size: 40px;
+  margin-left: 150px;
+  height: 50px;
+  padding: 10px;
+}
+.logobox{
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  margin-left:330px;
+}
+.logo{
+  height: 100px;
+  width: 200px;
+  align-self: center;
+  margin-left: 0px;
+}
+.cart{
+  font-size: 40px;
+  margin-left: 50px;
+  height: 50px;
+  padding: 10px;
+}
+.signin {
+  display: none;
+}
+.search-box{
+  height: 60px;
+}
+.search{
+  height: 75px;
+  width: 740px;
+  border-radius: 6px;
+  font-size: 40px;
+}
+button{
+  height: 78px;
+  margin-left: 692px;
+  width:90px ;
+  border-radius: 9px;
+}
+.delivery{
+  height: 70px;
+  font-size: 30px;
+}
+.Country{
+  font-size: 30px;
+}
+.text{
+  margin-left: 30px;
+}
+.disclaimer{
+  margin-left: 110px;
+}
+
+}
